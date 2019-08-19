@@ -1,3 +1,5 @@
+
+
 *My name is Solo, I'm 31 years old and I live in Toulouse.
 I am a former Aeronautical Painter who reconverted in coding
 Curious, self-taught and rigorous I learned coding with my Google friends
