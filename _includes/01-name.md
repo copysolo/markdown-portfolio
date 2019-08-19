@@ -1,4 +1,4 @@
-# CopySolo <h1>
+# CopySolo
   
 ### <h1> [GitHub](https://github.com/copysolo)
   
